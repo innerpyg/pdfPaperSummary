@@ -1,0 +1,8 @@
+dotenv
+pdf2image
+Pillow=9.5.0
+langchain
+pytesseract
+opencv-python
+#pip install torch==2.0.1+cu117 torchvision==0.15.2+cu117 -f https://download.pytorch.org/whl/torch_stable.html
+#pip install layoutparser && pip install "git+https://github.com/facebookresearch/detectron2.git@v0.5#egg=detectron2"
